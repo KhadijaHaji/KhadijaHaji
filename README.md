@@ -19,7 +19,7 @@
 
 
 <h2 align="center">My Stats</h2>
-<div align="center" >
+<div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhadijaHaji&langs_count=5&theme=react&layout=compact)
 <br/>
